@@ -1,0 +1,2 @@
+good_things = ["a fancy car", "your long lost dad", "a complete college scholarship", "a lifetime supply of cheetos"]
+bad_things = ["unremovable toenail fungus", "double the amount of schoolwork", "no bitches"]
